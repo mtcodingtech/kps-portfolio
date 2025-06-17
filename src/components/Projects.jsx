@@ -55,11 +55,11 @@ export default function Projects() {
                   {project.details?.map((detail, index) => {
                     return (
                       <>
-                        <div className="flex gap-4" key={index}>
-                          <h5 className="font-bold text-lg text-sky-900 my-2">
+                        <div className="flex gap-4 items-center mb-2" key={index}>
+                          <h5 className="font-bold text-lg text-sky-900">
                             {`${detail.title}`}
                           </h5>
-                          <p className="flex items-center text-sky-600 text-md font-semibold">
+                          <p className=" text-sky-600 text-md font-semibold">
                             {detail.result}
                           </p>
                         </div>
