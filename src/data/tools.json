@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "name": "HRIS Platforms",
+            "tools": [
+                "BambooHR",
+                "Better HR"
+            ]
+        },
+        {
+            "name": "Productivity & Collaboration",
+            "tools": [
+                "Google Workspace",
+                "MS Office",
+                "Slack",
+                "Trello",
+                "Zoom"
+            ]
+        },
+        {
+            "name": "ATS Systems",
+            "tools": [
+                "JobNet",
+                "LinkedIn Recruiter"
+            ]
+        },
+        {
+            "name": "HR Operations",
+            "tools": [
+                "Fingerprint System"
+            ]
+        }
+    ]
+}

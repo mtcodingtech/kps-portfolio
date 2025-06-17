@@ -1,0 +1,35 @@
+[
+   
+    
+    
+    {
+        "title": "Payroll Management",
+        "icon": "fa-solid fa-calculator",
+        "description": "Managing payroll processes, tax compliance, and employee compensation."
+    },
+    {
+        "title": "HR Operations",
+        "icon": "fa-solid fa-cogs",
+        "description": "Streamlining day-to-day HR functions and administrative tasks."
+    },
+    {
+        "title": "Recruitment",
+        "icon": "fa-solid fa-user-plus",
+        "description": "Sourcing, screening, and hiring top talent for various roles."
+    },
+    {
+        "title": "HR Policies",
+        "icon": "fa-solid fa-file-alt",
+        "description": "Developing and implementing comprehensive human resource policies and procedures."
+    },
+    {
+        "title": "Employee Relations",
+        "icon": "fa-solid fa-handshake",
+        "description": "Building positive workplace relationships and resolving conflicts effectively."
+    },
+    {
+        "title": "Learning & Development",
+        "icon": "fa-solid fa-graduation-cap",
+        "description": "Designing and implementing comprehensive training programs for skill enhancement."
+    }
+]

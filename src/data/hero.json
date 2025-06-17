@@ -1,0 +1,31 @@
+{
+    "name": "Khine Pwint San",
+    "position": "Human Resource Specialist",
+    "description": "Specializing in HR operations, payroll management, and talent acquisition. Creating efficient workplace environments through strategic HR solutions.",
+    "call_to_actions": [
+        {
+            "label": "Get in Touch",
+            "href": "#contact",
+            "icon": "fas fa-envelope"
+        },
+        {
+            "label": "View Projects",
+            "href": "#projects",
+            "icon": "fas fa-briefcase"
+        }
+    ],
+    "stats": [
+        {
+            "value": "5+",
+            "label": "Years Experience"
+        },
+        {
+            "value": "500+",
+            "label": "Employees Managed"
+        },
+        {
+            "value": "98%",
+            "label": "Client Satisfaction"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "title": "Career Highlights",
+    "subtitle": "Key milestones in my HR leadership journey",
+    "highlights": [
+        {
+            "id": 1,
+            "title": "Director of People Operations",
+            "period": "2020 - Present",
+            "description": "ONOW Myanmar Co.,Ltd., Remote"
+        },
+        {
+            "id": 2,
+            "title": "HR Manager",
+            "period": "January 2022 - July 2022",
+            "description": "Myanmar Lift Group Co.,Ltd., Hybrid"
+        },
+        {
+            "id": 3,
+            "title": "HR & Admin Supervisor",
+            "period": "November 2018 - August 2019",
+            "description": "Infinity FItness Co.,Ltd., Onsite"
+        }
+    ]
+}

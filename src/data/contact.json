@@ -1,0 +1,24 @@
+{
+    "title": "Let's Connect",
+    "subtitle": "Ready to discuss how I can transform your organization?",
+    "contact_methods": [
+        {
+            "type": "Email",
+            "icon": "fas fa-envelope",
+            "value": "khinepwintsan@gmail.com",
+            "href": "mailto:khinepwintsan@gmail.com"
+        },
+        {
+            "type": "Phone",
+            "icon": "fas fa-phone-alt",
+            "value": "+66944780967",
+            "href": "tel:+66944780967"
+        },
+        {
+            "type": "LinkedIn",
+            "icon": "fab fa-linkedin-in",
+            "value": "https://www.linkedin.com/in/khine-pwint-san-0230b9149",
+            "href": "https://www.linkedin.com/in/khine-pwint-san-0230b9149"
+        }
+    ]
+}
